@@ -44,16 +44,7 @@
 ---
 
 ## Установка
-```bash
-git clone https://github.com/username/agent-grisha.git
-cd agent-grisha
-pip install -r requirements.txt
-```
-
-### Настройка
-```bash
-python src/config_app.py
-```
+[ :/ ]
 
 Выбери провайдера, внеси ключи и сохрани — остальное я сделаю сам.
 
